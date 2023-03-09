@@ -1,4 +1,8 @@
 # KeyAuth-HWIDLock-NoSID
+
+> **Warning**
+> If you used another KeyAuth example before this, the HWID won't match. You'll need to reset all HWIDs if you want to use this.
+
 1) KeyAuth.cc but without SID Lock! Changed to HwProfileGUID from Registry!
 2) Merged main.py & keyauth.py
 
